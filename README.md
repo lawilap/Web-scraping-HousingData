@@ -47,9 +47,3 @@ These instructions will get you a copy of the project up and running on your loc
 ## Distribution
 
 The entire or a part of this code is free to be used by any individual for their personal or research purpose.
-
-
-## Authors
-
-* **Parag Paliwal** 
-* **Yagna Ganesh Easwaran** 
